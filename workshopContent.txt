@@ -8,3 +8,5 @@ rstudio
 and my scraping homework
 regular expressions
 grab drinks with the gals 
+
+I love me some margaritas! Mmmmm
