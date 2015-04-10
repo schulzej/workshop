@@ -6,4 +6,5 @@ sqlite
 r
 rstudio
 and my scraping homework
-regular expressions 
+regular expressions
+grab drinks with the gals 
