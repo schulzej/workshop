@@ -1,0 +1,8 @@
+list of workshop content:
+shell commands
+python
+git
+sqlite
+r
+rstudio
+and my scraping homework 
