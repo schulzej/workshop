@@ -2,7 +2,7 @@ list of workshop content:
 shell commands
 python
 git
-sqlite
+sqlite (what the heck is this?)
 r
 rstudio
 and my scraping homework 
