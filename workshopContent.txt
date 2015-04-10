@@ -5,11 +5,9 @@ git
 rstudio
 and my scraping homework
 regular expressions
-<<<<<<< HEAD
 grab drinks with the gals 
 
 I love me some margaritas! Mmmmm
-=======
 grab drinks with the gals
 finish the margs mix
 go on a hike with dane
