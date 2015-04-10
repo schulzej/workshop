@@ -2,7 +2,8 @@ list of workshop content:
 shell commands
 python
 git
-sqlite (what the heck is this?)
+sqlite
 r
 rstudio
-and my scraping homework 
+and my scraping homework
+regular expressions 
