@@ -1,17 +1,13 @@
-list of workshop content:
+Workshop To-Do:
 shell commands
 python
 git
 rstudio
 and my scraping homework
 regular expressions
-<<<<<<< HEAD
-grab drinks with the gals 
 
-I love me some margaritas! Mmmmm
-=======
-grab drinks with the gals
-finish the margs mix
-go on a hike with dane
-hit the gym: intervals, weights
+Post Workshop To-Do:
+grab drinks with the gals 
+(I love me some margaritas, but especially the ones Anu makes! Mmmmm)
+hit the gym: intervals & weights for Friday
 
