@@ -2,9 +2,10 @@ list of workshop content:
 shell commands
 python
 git
-sqlite
-r
 rstudio
 and my scraping homework
 regular expressions
-grab drinks with the gals 
+grab drinks with the gals
+finish the margs mix
+go on a hike with dane
+jumping jacks
